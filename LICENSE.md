@@ -1,4 +1,4 @@
-# 
+# rare Atom for PC | Atom for Windows Plugin | auto-completion + linting is the best Atom for PC | Atom for Windows plugin, featuring auto-completion and linting. Powerful,
 
 
 
